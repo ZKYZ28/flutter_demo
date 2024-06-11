@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "928708831342",
+    "project_id": "welcome-sprint-965f4",
+    "storage_bucket": "welcome-sprint-965f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928708831342:android:b58cc5bb448c1be8435e7f",
+        "android_client_info": {
+          "package_name": "com.example.welcome_sprint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAETeJ1MIkCyn-AyJVIpj5f3AZqiq2bTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        },
+        "analytics_service": {
+          "status": 0
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
